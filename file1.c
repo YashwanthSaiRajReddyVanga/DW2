@@ -4,7 +4,10 @@
 int main() {
 
     // writing print statement to print hello world
+    printf("Hello World from branch2");
+
     printf("Hello World from branch1");
+
 
     return 0;
 }
